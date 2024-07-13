@@ -9,3 +9,7 @@
 .imageX4{
     filter: blur(2px);
 }
+
+#text55, #text56, #text57{
+    cursor: pointer;
+}

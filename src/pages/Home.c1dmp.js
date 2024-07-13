@@ -1,10 +1,26 @@
 // API Reference: https://www.wix.com/velo/reference/api-overview/introduction
 // “Hello, World!” Example: https://learn-code.wix.com/en/article/hello-world
-
+import wixWindow from 'wix-window';
 $w.onReady(function () {
-    // Write your JavaScript here
+   
+    function showGallery(selectedGalleryId) {
+      $w('#gridGallery1').hide();
+      $w('#gridGallery2').hide();
+      $w('#gridGallery3').hide();
+      $w('#gridGallery4').hide();
 
-    // To select an element by ID use: $w('#elementID')
-
-    // Click 'Preview' to run your code
-});
+      $w(selectedGalleryId).show();
+    }
+    $w("#text55").onClick(() => {
+      showGallery('#gridGallery2');
+    });
+  
+    $w("#text56").onClick(() => {
+      showGallery('#gridGallery3');
+    });
+  
+    $w("#text57").onClick(() => {
+      showGallery('#gridGallery4');
+    });
+  
+  });
