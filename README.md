@@ -13,7 +13,7 @@ At Luminous Wick, we are passionate about creating spaces that glow with eleganc
 
 ## Getting Started
 Discover the magic of Luminous Wick by visiting our website:
-![Luminous Wick](https://www.example.com)
+![Luminous Wick](https://github.com/Nasreena847/Luminous-Wick/blob/main/src/images/Screenshot%20(113).png)
 
 Explore our curated collections, add items to your cart, and experience the elegance of candlelight and soothing aromas brought to your doorstep.
 
