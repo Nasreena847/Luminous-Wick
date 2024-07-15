@@ -11,17 +11,10 @@ Explore a premier ecommerce experience dedicated to high-quality candles and aro
 ## Overview
 At Luminous Wick, we are passionate about creating spaces that glow with elegance and fragrance. Our ecommerce platform ensures a delightful shopping journey from selection to delivery, whether you're seeking luxurious scents, decorative candles, or soothing aromas.
 
-## Getting Started
-Discover the magic of Luminous Wick by visiting our website:
 ![Luminous Wick](https://github.com/Nasreena847/Luminous-Wick/blob/main/src/images/Screenshot%20(113).png)
-
-Explore our curated collections, add items to your cart, and experience the elegance of candlelight and soothing aromas brought to your doorstep.
 
 ## Contributing
 We are continuously enhancing our website to offer the best shopping experience. If you have suggestions or ideas, we'd love to hear from you. Please reach out or contribute directly through GitHub.
-
-## Contact Us
-Have questions or need assistance? Contact our support team at [support@luminouswick.com](mailto:support@luminouswick.com).
 
 ## License
 All rights reserved.
